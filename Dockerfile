@@ -6,6 +6,3 @@ apt upgrade && \
 apt install bash
 
 WORKDIR /
-
-ENTRYPOINT ["/usr/bin/bash"]
-
